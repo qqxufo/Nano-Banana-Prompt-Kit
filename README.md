@@ -1,5 +1,10 @@
 # 🍌 Nano Banana Prompt Kit
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pomcaaggooccollogifegmpkhheelmfl?label=Chrome%20Web%20Store&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/nano-banana-prompt-kit/pomcaaggooccollogifegmpkhheelmfl)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/pomcaaggooccollogifegmpkhheelmfl?label=Users&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/nano-banana-prompt-kit/pomcaaggooccollogifegmpkhheelmfl)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/pomcaaggooccollogifegmpkhheelmfl?label=Rating&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/nano-banana-prompt-kit/pomcaaggooccollogifegmpkhheelmfl)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 > A curated collection of 65+ AI prompts for Nano Banana image editing
 
 A free Chrome extension featuring 65+ carefully selected prompts for Nano Banana AI, helping you quickly discover and use various image processing effects.
@@ -49,7 +54,7 @@ A free Chrome extension featuring 65+ carefully selected prompts for Nano Banana
 ## 📦 Installation
 
 ### Method 1: Chrome Web Store (Recommended)
-1. Visit [Chrome Web Store](#)
+1. Visit [Chrome Web Store](https://chromewebstore.google.com/detail/nano-banana-prompt-kit/pomcaaggooccollogifegmpkhheelmfl)
 2. Click "Add to Chrome"
 3. Confirm installation
 
@@ -101,8 +106,10 @@ nano-banana-prompt-kit/
 
 ## 🔗 Links
 
-- [NanaVis Official Website](https://nanavis.com)
-- [Nano Banana Editor](https://nanavis.com/tools/nano-banana)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/nano-banana-prompt-kit/pomcaaggooccollogifegmpkhheelmfl) - Install the extension
+- [NanaVis Official Website](https://nanavis.com) - Learn more about NanaVis
+- [Nano Banana Editor](https://nanavis.com/tools/nano-banana) - Try the online editor
+- [GitHub Repository](https://github.com/qqxufo/Nano-Banana-Prompt-Kit) - View source code
 
 ## 🤝 Contributing
 
@@ -138,6 +145,14 @@ MIT License
 This extension is created by the [NanaVis](https://nanavis.com) team to help users better utilize Nano Banana AI image editing tools.
 
 Prompts are inspired by community favorites and popular use cases. We continuously update and optimize the collection.
+
+---
+
+## 📈 Stats
+
+- **65+ Curated Prompts** across 16 categories
+- Available on [Chrome Web Store](https://chromewebstore.google.com/detail/nano-banana-prompt-kit/pomcaaggooccollogifegmpkhheelmfl)
+- Open source on [GitHub](https://github.com/qqxufo/Nano-Banana-Prompt-Kit)
 
 ---
 
